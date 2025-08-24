@@ -11,7 +11,6 @@ Ovaj projekat sadrži automatizovane testove za funkcionalnosti prijave, registr
 ## ⚙️ Instalacija
 
 1. Instaliraj potrebne pakete:
-   ```venv
    ```bash
-   pip install selenium webrive
-   
+   pip install selenium webdriver
+
